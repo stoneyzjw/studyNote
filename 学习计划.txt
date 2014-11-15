@@ -1,0 +1,4 @@
+在rhel7下测试：
+dns, postfix
+熟悉相关命令：
+systemctl, firewall-cmd, nmap, nmcli
